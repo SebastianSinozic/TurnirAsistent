@@ -1,0 +1,14 @@
+C:\Users\sebas\Downloads\Turnir-asistent-master\Turnir-asistent-master\TurnirAsistentModel\AsistentGUI\bin\Debug\AsistentGUI.exe.config
+C:\Users\sebas\Downloads\Turnir-asistent-master\Turnir-asistent-master\TurnirAsistentModel\AsistentGUI\bin\Debug\AsistentGUI.exe
+C:\Users\sebas\Downloads\Turnir-asistent-master\Turnir-asistent-master\TurnirAsistentModel\AsistentGUI\bin\Debug\AsistentGUI.pdb
+C:\Users\sebas\Downloads\Turnir-asistent-master\Turnir-asistent-master\TurnirAsistentModel\AsistentGUI\obj\Debug\AsistentGUI.csprojAssemblyReference.cache
+C:\Users\sebas\Downloads\Turnir-asistent-master\Turnir-asistent-master\TurnirAsistentModel\AsistentGUI\obj\Debug\AsistentGUI.DodavanjeEkipe.resources
+C:\Users\sebas\Downloads\Turnir-asistent-master\Turnir-asistent-master\TurnirAsistentModel\AsistentGUI\obj\Debug\AsistentGUI.DodavanjeNagrada.resources
+C:\Users\sebas\Downloads\Turnir-asistent-master\Turnir-asistent-master\TurnirAsistentModel\AsistentGUI\obj\Debug\AsistentGUI.Kreiranjeturnira.resources
+C:\Users\sebas\Downloads\Turnir-asistent-master\Turnir-asistent-master\TurnirAsistentModel\AsistentGUI\obj\Debug\AsistentGUI.PregledTurnira.resources
+C:\Users\sebas\Downloads\Turnir-asistent-master\Turnir-asistent-master\TurnirAsistentModel\AsistentGUI\obj\Debug\AsistentGUI.Properties.Resources.resources
+C:\Users\sebas\Downloads\Turnir-asistent-master\Turnir-asistent-master\TurnirAsistentModel\AsistentGUI\obj\Debug\AsistentGUI.TurnirAsistent.resources
+C:\Users\sebas\Downloads\Turnir-asistent-master\Turnir-asistent-master\TurnirAsistentModel\AsistentGUI\obj\Debug\AsistentGUI.csproj.GenerateResource.cache
+C:\Users\sebas\Downloads\Turnir-asistent-master\Turnir-asistent-master\TurnirAsistentModel\AsistentGUI\obj\Debug\AsistentGUI.csproj.CoreCompileInputs.cache
+C:\Users\sebas\Downloads\Turnir-asistent-master\Turnir-asistent-master\TurnirAsistentModel\AsistentGUI\obj\Debug\AsistentGUI.exe
+C:\Users\sebas\Downloads\Turnir-asistent-master\Turnir-asistent-master\TurnirAsistentModel\AsistentGUI\obj\Debug\AsistentGUI.pdb

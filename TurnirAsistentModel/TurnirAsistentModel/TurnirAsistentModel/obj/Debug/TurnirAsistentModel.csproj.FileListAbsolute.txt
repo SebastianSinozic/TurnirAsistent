@@ -1,0 +1,6 @@
+C:\Users\sebas\Downloads\Turnir-asistent-master\Turnir-asistent-master\TurnirAsistentModel\TurnirAsistentModel\bin\Debug\TurnirAsistentModel.dll
+C:\Users\sebas\Downloads\Turnir-asistent-master\Turnir-asistent-master\TurnirAsistentModel\TurnirAsistentModel\bin\Debug\TurnirAsistentModel.pdb
+C:\Users\sebas\Downloads\Turnir-asistent-master\Turnir-asistent-master\TurnirAsistentModel\TurnirAsistentModel\obj\Debug\TurnirAsistentModel.csprojAssemblyReference.cache
+C:\Users\sebas\Downloads\Turnir-asistent-master\Turnir-asistent-master\TurnirAsistentModel\TurnirAsistentModel\obj\Debug\TurnirAsistentModel.csproj.CoreCompileInputs.cache
+C:\Users\sebas\Downloads\Turnir-asistent-master\Turnir-asistent-master\TurnirAsistentModel\TurnirAsistentModel\obj\Debug\TurnirAsistentModel.dll
+C:\Users\sebas\Downloads\Turnir-asistent-master\Turnir-asistent-master\TurnirAsistentModel\TurnirAsistentModel\obj\Debug\TurnirAsistentModel.pdb
